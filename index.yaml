@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  chart1:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-05-15T16:11:48.347611-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 4a308ba1b6c4087e0628b6c77c8a5beb2689729cc228eebb08e2d7d10311fc45
+    name: chart1
+    type: application
+    urls:
+    - https://github.com/frspackager/helm-charts/releases/download/chart1-0.1.0/chart1-0.1.0.tgz
+    version: 0.1.0
+  chart2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-05-15T16:11:48.430142-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 88b8293b68547a3eb4bfddf4394c9b0af4834e549680ad542aa667f6d4d5f1fc
+    name: chart2
+    type: application
+    urls:
+    - https://github.com/frspackager/helm-charts/releases/download/chart2-0.1.0/chart2-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-05-15T16:11:48.430152-04:00"
